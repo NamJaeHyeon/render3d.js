@@ -14,4 +14,6 @@ This project demonstrates the ability to render a 3D polygon using JavaScript an
 - Open the index.html file in a web browser
 - Use the provided controls to rotate and translate the polygon
 - Experiment with the code to customize the polygon and add additional features.
-## Note: This project is a basic demonstration and is intended for educational and experimental purposes.
+
+
+Note: This project is a basic demonstration and is intended for educational and experimental purposes.
